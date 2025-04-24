@@ -14,4 +14,6 @@ Developers are: Daiana Tei, Alisa Barmina, Donir Dorzhiev - HSE SE students
 
 Please, access it on [Gitlab](https://gitlab.com/d.tey/releasal).
 
+[Presentation of my part of work](https://github.com/ThreightEE/Releasal/blob/main/Releasal_Tei.pdf) (currently in Russian).
+
 The work on this project was started in Oct 2023 and completed in May 2024.
